@@ -1,0 +1,5 @@
+E:\Documents\ASP.Net Books\MVC\Pro.ASP.NET.MVC.5.Platform\Chapter 04\SimpleApp\CommonModules\bin\Debug\CommonModules.dll
+E:\Documents\ASP.Net Books\MVC\Pro.ASP.NET.MVC.5.Platform\Chapter 04\SimpleApp\CommonModules\bin\Debug\CommonModules.pdb
+E:\Documents\ASP.Net Books\MVC\Pro.ASP.NET.MVC.5.Platform\Chapter 04\SimpleApp\CommonModules\obj\Debug\CommonModules.csprojResolveAssemblyReference.cache
+E:\Documents\ASP.Net Books\MVC\Pro.ASP.NET.MVC.5.Platform\Chapter 04\SimpleApp\CommonModules\obj\Debug\CommonModules.dll
+E:\Documents\ASP.Net Books\MVC\Pro.ASP.NET.MVC.5.Platform\Chapter 04\SimpleApp\CommonModules\obj\Debug\CommonModules.pdb
